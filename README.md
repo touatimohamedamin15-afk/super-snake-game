@@ -51,5 +51,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-🤖 Generated with [Claude Code](https://claude.com/claude-code)
+🤖 Generated with [Claude Code](https://claude.com/claude-code)and mohamed amin touati
 Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>
